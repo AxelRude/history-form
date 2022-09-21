@@ -99,4 +99,10 @@ img {
 
 #watermelon {
     font-size: 20px;
+    position: static;
+}
+
+#portfolio {
+    font-size: 20px;
+    position: static;
 }
